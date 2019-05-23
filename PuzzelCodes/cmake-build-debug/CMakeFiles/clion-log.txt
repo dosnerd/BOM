@@ -1,0 +1,4 @@
+/snap/clion/70/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /media/david/DATA_2/school/3.3/Project/codes/PuzzelCodes
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /media/david/DATA_2/school/3.3/Project/codes/PuzzelCodes/cmake-build-debug

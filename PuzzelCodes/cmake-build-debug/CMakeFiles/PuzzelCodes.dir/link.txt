@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/PuzzelCodes.dir/main.cpp.o  -o PuzzelCodes 

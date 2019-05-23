@@ -1,0 +1,3 @@
+/media/david/DATA_2/school/3.3/Project/codes/PuzzelCodes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/david/DATA_2/school/3.3/Project/codes/PuzzelCodes/cmake-build-debug/CMakeFiles/PuzzelCodes.dir
+/media/david/DATA_2/school/3.3/Project/codes/PuzzelCodes/cmake-build-debug/CMakeFiles/edit_cache.dir
